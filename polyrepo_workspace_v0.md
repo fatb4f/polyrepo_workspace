@@ -4,6 +4,8 @@
 
 Define the minimum control contract for a local-first polyrepo workspace controller.
 
+Delivery sequencing for this contract is defined in [polyrepo_workspace_delivery_v0.md](/home/_404/src/polyrepo_workspace/polyrepo_workspace_delivery_v0.md).
+
 This spec is for:
 - repo registry and repo relations
 - cross-repo tracking and lineage
